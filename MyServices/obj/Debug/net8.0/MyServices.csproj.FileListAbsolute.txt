@@ -1,0 +1,12 @@
+C:\Users\egemen.ertas\Desktop\AuthApp\MyServices\bin\Debug\net8.0\MyServices.deps.json
+C:\Users\egemen.ertas\Desktop\AuthApp\MyServices\bin\Debug\net8.0\MyServices.dll
+C:\Users\egemen.ertas\Desktop\AuthApp\MyServices\bin\Debug\net8.0\MyServices.pdb
+C:\Users\egemen.ertas\Desktop\AuthApp\MyServices\obj\Debug\net8.0\MyServices.csproj.AssemblyReference.cache
+C:\Users\egemen.ertas\Desktop\AuthApp\MyServices\obj\Debug\net8.0\MyServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egemen.ertas\Desktop\AuthApp\MyServices\obj\Debug\net8.0\MyServices.AssemblyInfoInputs.cache
+C:\Users\egemen.ertas\Desktop\AuthApp\MyServices\obj\Debug\net8.0\MyServices.AssemblyInfo.cs
+C:\Users\egemen.ertas\Desktop\AuthApp\MyServices\obj\Debug\net8.0\MyServices.csproj.CoreCompileInputs.cache
+C:\Users\egemen.ertas\Desktop\AuthApp\MyServices\obj\Debug\net8.0\MyServices.dll
+C:\Users\egemen.ertas\Desktop\AuthApp\MyServices\obj\Debug\net8.0\refint\MyServices.dll
+C:\Users\egemen.ertas\Desktop\AuthApp\MyServices\obj\Debug\net8.0\MyServices.pdb
+C:\Users\egemen.ertas\Desktop\AuthApp\MyServices\obj\Debug\net8.0\ref\MyServices.dll

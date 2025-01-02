@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthApp", "AuthApp\AuthApp.csproj", "{87B374B1-E085-4E1C-88A3-571B4BE638D7}"
+	ProjectSection(ProjectDependencies) = postProject
+		{8C68D4A4-18F1-4D26-AA71-1A571C79B690} = {8C68D4A4-18F1-4D26-AA71-1A571C79B690}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyServices", "MyServices\MyServices.csproj", "{8C68D4A4-18F1-4D26-AA71-1A571C79B690}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87B374B1-E085-4E1C-88A3-571B4BE638D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87B374B1-E085-4E1C-88A3-571B4BE638D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87B374B1-E085-4E1C-88A3-571B4BE638D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87B374B1-E085-4E1C-88A3-571B4BE638D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C68D4A4-18F1-4D26-AA71-1A571C79B690}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C68D4A4-18F1-4D26-AA71-1A571C79B690}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C68D4A4-18F1-4D26-AA71-1A571C79B690}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C68D4A4-18F1-4D26-AA71-1A571C79B690}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F47E0888-F685-4C9A-BC01-364DD6618EFC}
+	EndGlobalSection
+EndGlobal
