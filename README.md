@@ -36,10 +36,9 @@ Open the `appsettings.json` file and update the connection string as follows:
     "AuthConnString": "Server={SERVER_NAME};Database={DATABASE_NAME};Trusted_Connection=True;"
   },
 }
-
-Replace {SERVER_NAME} with the name of your database server.
-Replace {DATABASE_NAME} with the name of your database. 
 ```
+- Replace {SERVER_NAME} with the name of your database server.
+- Replace {DATABASE_NAME} with the name of your database. 
 
 
 ### Add Migration and Update Database
