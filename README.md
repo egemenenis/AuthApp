@@ -115,3 +115,14 @@ Entity Framework Core
 JWT (JSON Web Token)
 SQL Server
 ```
+---
+
+## **Contact**
+
+For questions, suggestions, or any problems, feel free to contact me:
+
+- **Email**: [enis.egemen25@gmail.com](mailto:enis.egemen25@gmail.com)
+
+---
+
+Thank you for discovering **Auth App Platform**!
