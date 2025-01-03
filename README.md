@@ -37,8 +37,8 @@ Open the `appsettings.json` file and update the connection string as follows:
   },
 }
 
-- Replace {SERVER_NAME} with the name of your database server.
-- Replace {DATABASE_NAME} with the name of your database. 
+Replace {SERVER_NAME} with the name of your database server.
+Replace {DATABASE_NAME} with the name of your database. 
 ```
 
 
@@ -125,4 +125,4 @@ For questions, suggestions, or any problems, feel free to contact me:
 
 ---
 
-Thank you for discovering **Auth App Platform**!
+Thank you for discovering **AuthApp Platform**!
