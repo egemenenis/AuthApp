@@ -17,7 +17,7 @@ AuthApp is an ASP.NET Core application that provides JWT-based authentication fo
 
 To run this project, the following requirements must be met:
 
-- .NET 6 or later version.
+- .NET 8 or later version.
 - Microsoft SQL Server or a compatible database.
 
 ## Getting Started
