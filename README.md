@@ -67,7 +67,7 @@ dotnet run
 ```
 
 
-## API Endpoints
+# API Endpoints
 #### User Registration (POST /api/auth/register)
 To register a new user, send a POST request to the following endpoint:
 ```
